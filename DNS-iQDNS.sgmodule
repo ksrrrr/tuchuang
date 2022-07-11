@@ -1,0 +1,4 @@
+#!name=DNS更改-iQDNS
+#!desc=更改DNS为iQDNS
+[General]
+doh-server = quic://x.passcloud.xyz:784
