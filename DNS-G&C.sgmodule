@@ -1,0 +1,4 @@
+#!name=DNS更改-8.8.8.8
+#!desc=更改DNS为8.8.8.8
+[General]
+doh-server = https://8.8.8.8/dns-query, https://1.1.1.1/dns-query
