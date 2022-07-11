@@ -1,0 +1,4 @@
+#!name=DNS更改-tx
+#!desc=更改DNS为DNSpod
+[General]
+doh-server = https://doh.pub/dns-query
