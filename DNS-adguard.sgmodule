@@ -1,0 +1,4 @@
+#!name=DNS更改-adguard
+#!desc=更改DNS为adguard
+[General]
+doh-server = quic://dns-unfiltered.adguard.com:784
