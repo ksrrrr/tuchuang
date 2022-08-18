@@ -1,0 +1,4 @@
+#!name=DNS更改-8.8.8.8
+#!desc=更改DNS为8.8.8.8
+[General]
+doh-server = https://106.55.244.52:12000/dns-query, https://dns.alidns.com/dns-query
