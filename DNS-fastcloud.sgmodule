@@ -1,4 +1,4 @@
-#!name=DNS更改-8.8.8.8
-#!desc=更改DNS为8.8.8.8
+#!name=DNS更改-fastcloud
+#!desc=更改DNS为fastcloud去广告dns
 [General]
 doh-server = https://106.55.244.52:12000/dns-query, https://dns.alidns.com/dns-query
